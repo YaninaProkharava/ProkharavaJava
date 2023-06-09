@@ -1,0 +1,4 @@
+How to run the app on Windows:
+Execute in Command Prompt:
+chcp 65001
+java -jar "PATH_TO_JAR"
